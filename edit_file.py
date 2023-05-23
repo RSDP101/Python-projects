@@ -1,4 +1,4 @@
-#this is for editing a txt file named alice.txt so that it doesn't contain special characters and all letters are lowercase.
+#this  is for editing a txt file named alice.txt so that it doesn't contain special characters and all letters are lowercase.
 import string
 
 def strip_punc(line):
